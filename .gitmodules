@@ -1,0 +1,3 @@
+[submodule "optimization/TaskMaster"]
+	path = optimization/TaskMaster
+	url = https://github.com/lcdonaldson/TaskMaster.git
